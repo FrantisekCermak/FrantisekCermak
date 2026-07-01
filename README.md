@@ -17,8 +17,8 @@ I design reliable hardware, write clean firmware, and build systems that solve r
 - Advancing embedded C skills and certification path
 - Building modular RTOS architectures for real-time control
 
-### 📈 Values
+### Values
 Minimalism, clarity, measurable criteria, and efficient engineering.
 
-### 📫 Contact
+### Contact
 Feel free to reach out for collaboration or technical consulting.
