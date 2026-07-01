@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Frantisek Cermak
 
-<!--
-**FrantisekCermak/FrantisekCermak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electronics engineer, embedded developer, and project lead.**  
+I design reliable hardware, write clean firmware, and build systems that solve real problems.
 
-Here are some ideas to get you started:
+### What I do
+- Embedded C (STM32, NXP, Arduino)
+- RTOS-based embedded applications (FreeRTOS, CMSIS-RTOS)
+- LabView
+- PCB design, analog modules, sensor simulation
+- Industrial automation & PLC integration
+- Technical documentation, schematics, project planning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+- Developing scalable HiL and EOL ECU tester
+- Improving engineering workflows (KiCad, SkyCAD, structured documentation)
+- Advancing embedded C skills and certification path
+- Building modular RTOS architectures for real-time control
+
+### 📈 Values
+Minimalism, clarity, measurable criteria, and efficient engineering.
+
+### 📫 Contact
+Feel free to reach out for collaboration or technical consulting.
